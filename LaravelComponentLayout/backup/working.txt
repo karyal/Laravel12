@@ -1,0 +1,6 @@
+Pages
+- home
+- about
+- amenities
+- rooms
+- contact
